@@ -1,0 +1,37 @@
+body
+{
+    background-color:burlywood;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    color:brown;
+    background-color: darkgoldenrod;
+    text-align: center;
+  }
+ul{
+    text-decoration: underline;
+  }
+  #hi1{ 
+    margin-left: 20px;
+    display: flex;
+    flex-direction: row; 
+    gap: 15px;
+    
+    }
+table {
+  width: 50%;
+  margin-left: 10px;
+}
+
+th {
+  height: 10px;
+}
+body{
+    font-size: large;
+}
+nav
+{
+    color:brown;
+    background-color: darkgoldenrod;
+    text-align: center;
+}
